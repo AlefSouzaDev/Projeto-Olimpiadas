@@ -1,13 +1,13 @@
 let dados = [
     {
-        titulo: "Rayssa Leal",
         // O nome da atleta.
+        titulo: "Rayssa Leal",
+        // Uma breve descrição de sua carreira e conquistas.
         descricao: "Rayssa Leal é uma skatista brasileira, conhecida como a ''Fada do Skate''. Aos 13 anos, conquistou a medalha de prata nos Jogos Olímpicos de Tóquio 2020, sendo a mais jovem medalhista olímpica da história do Brasil.",
-        //  Uma breve descrição de sua carreira e conquistas.
-        Link: "https://pt.wikipedia.org/wiki/Rayssa_Leal",
         // Um link para a página da Wikipédia da atleta.
+        link: "https://pt.wikipedia.org/wiki/Rayssa_Leal",
+        // Palavras-chave relacionadas à atleta, separadas por espaços.
         tags: "skate fada sk8 brasileira"
-        // Palavras-chave relacionadas à atleta, separadas por espaços
     },
     {
         titulo: "Rebeca Andrade",
