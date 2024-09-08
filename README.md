@@ -1,4 +1,4 @@
-# Procurando por seu atleta favorito? Nós te ajudamos!
+# Procurando por seu atleta favorito? Nós te ajudamos - Imersão Dev com Google Gemini - Alura
 
 ## O que essa aplicação faz?
 
